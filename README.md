@@ -27,7 +27,7 @@ git add .
 git commit -m "Add privacy policy for YouTube Shorts extension"
 
 # Add your repository as origin (replace with your repo URL)
-git remote add origin https://github.com/YOUR_USERNAME/youtube-shorts-privacy-policy.git
+git remote add origin https://github.com/necromman/youtube-shorts-privacy-policy.git
 
 # Push to main branch
 git branch -M main
